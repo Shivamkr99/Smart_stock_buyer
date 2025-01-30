@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MKBGKZbl20CFI0MmL0nC3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" DesignTimeRectangle="724, 369, 659, 90" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' class='fsAuto cur-po se27SeSuggestion se27SeSuggestionHover bodyBase' tag='DIV' aaname='' check:innerText='Zomato Ltd.&amp;#xA;ZOMATO&amp;#xA;Stock' /&gt;" Guid="206fe24d-b91f-4606-adcd-5405e50f114d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="724, 282, 659, 87" FuzzySelectorArgument="&lt;webctrl type='' class='contentAccent valign-wrapper vspace-between sf54SearchFilterRow bodySmallHeavy' tag='DIV' aaname='' check:innerText='All&amp;#xA;Stocks&amp;#xA;MF&amp;#xA;F&amp;amp;O' /&gt;" Guid="4310e9a2-6858-49d8-9e53-085077142da5" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="a95d291c-395f-4d36-bc21-f8829c7109d6" CvTextArea="1301, 404, 46, 16" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1303, 400, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionszomato-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="70ba6b3e-05d2-46e8-a90e-666762a98c92" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02cdcd4a9179cca014716ffd704e9f33.png" xmlns="">0wz4e3Hruz0O0ttilUxC18w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

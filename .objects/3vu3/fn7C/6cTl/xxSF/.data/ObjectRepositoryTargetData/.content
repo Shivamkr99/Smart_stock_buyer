@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S4e0ABtHbk68d27MYJpJvw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="4128fb89-8042-4dbd-a6c8-ac55c9d68711" CvElementArea="904, 305, 134, 44" CvTextArea="942, 317, 57, 18" CvTextArgument="Stocks" CvType="Button" DesignTimeRectangle="943, 314, 56, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='bodySmallHeavy' tag='SPAN' type='' /&gt;" Guid="7c22f246-94b8-4ad0-b513-1512379a21d6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4128fb89-8042-4dbd-a6c8-ac55c9d68711" CvElementArea="904, 305, 134, 44" CvTextArea="942, 317, 57, 18" CvTextArgument="Stocks" CvType="Button" DesignTimeRectangle="907, 308, 129, 39" FuzzySelectorArgument="&lt;webctrl type='' class='pill12Pill absolute-center cur-po valign-wrapper pill12SizeSmall backgroundPrimary borderPrimary contentPrimary pill12PillHover' tag='DIV' aaname='' check:innerText='Stocks' /&gt;" Guid="5a4d8d0c-7693-45f1-bfb1-ffd4e8f6dbba" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ced99e94a19b3e75e8d2c17854d8afb3.png" xmlns="">0g7CaIedGTUugvD523sTBlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

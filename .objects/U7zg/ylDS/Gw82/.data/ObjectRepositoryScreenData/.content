@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="uALLhEGbBkuczCx5QM4pZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-11, -11, 1942, 1030" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAEdSURBVFhH7ZXdFYIwDIUdISM4igtZ2EA3kA1wEGlGwA0YBU9KsfQK2miPT/3OyVNCe/PTsNsVCoVEqOYDmVtDxg5k7Oitp6prqeY9xmeDaiaq+LK4dN2q7iKx+P1PuMtNd3+5bNv6rCJeMj9adq3wl0xtsVesBJ7zFdLXOLvujDEz4otiaz5gjBoyt5BZxS36EVedIKJBvxrXT0VGvh2zgAH9apYlRd8a08DqvnnL8rDUyc4tICwcfQt69KuRQXoeeLSMfkQ7tB+BjEYyfMKYGfFFsblWc1QFl5nb+64dbuhEZPz8kqqVjJ/s8ByTbbtaaryIuBJrhpXIKULwq1kGbVkReSnNsy24knOLSKGImEER6P8LQcT2r7xQKDwAoEN3U4Rz4FUAAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='www.google.com - Search' /&gt;" Url="https://www.bing.com/search?q=www.google.com&amp;form=ANSPH1&amp;refig=30D18F170EE64EDDA760DBF10E908732&amp;pc=LCTS" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="ba7bf17c2677205b7a1581b502e6a851.jpg" xmlns="">0w--IGvhDaUWvJv-eC1uXuQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

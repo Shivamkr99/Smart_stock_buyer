@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CsKzamVSokinQyFpMeySSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="306e0b59-436b-410d-8268-5fc48467976f" CvElementArea="903, 303, 135, 44" CvTextArea="942, 315, 57, 18" CvTextArgument="Stocks" CvType="Button" DesignTimeRectangle="904, 303, 135, 44" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl class='bodySmallHeavy' tag='SPAN' type='' /&gt;" Guid="d856c608-423c-4e2d-ae5f-06f9ed147bcb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b45d7004511424239bae83704b0876ef.png" xmlns="">0P3exBQdn50eKGEIc6DOanQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

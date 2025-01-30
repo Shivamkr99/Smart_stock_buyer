@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o91ifM-bsk-LL8CONLipjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/tata-consultancy-services-ltd" CVScreenId="3e3cf702-dc3c-46cb-86a0-949bbac1a768" CvTextArea="518, 788, 46, 21" CvType="AnyWordGroup" DesignTimeRectangle="518, 767, 46, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='ft785Value right-align contentPrimary bodyLargeHeavy' tag='TD' /&gt;" Guid="8ac65f80-88f2-44a6-9fc6-928fb2002eff" ScopeSelectorArgument="&lt;html app='msedge.exe' title='TCS Share Price Today - Tata Consultancy Services Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3e3cf702-dc3c-46cb-86a0-949bbac1a768" CvTextArea="63, 789, 129, 24" CvTextArgument="Debt to Equity" CvType="Text" DesignTimeRectangle="65, 767, 453, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='ft785Head left-align contentSecondary bodyBase' aaname='Debt to Equity' check:innerText='Debt to Equity' /&gt;" Guid="db902c21-c8e3-4855-8246-e3be222bb203" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c33ebf66ee4c556cc3390931ac272b6e.png" xmlns="">0pdG-z3NRh0SK6JwLZCMl9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

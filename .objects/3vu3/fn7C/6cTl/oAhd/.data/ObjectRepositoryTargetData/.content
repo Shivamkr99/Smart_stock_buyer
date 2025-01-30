@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qUSvBtzFW0Sn99MeqIBUcQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/tata-consultancy-services-ltd" DesignTimeRectangle="65, 422, 1200, 450" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' class='' parentid='root' tag='DIV' aaname='' check:innerText='Fundamentals&amp;#xA;Market Cap&amp;#x9;₹14,82,095Cr&amp;#xA;ROE&amp;#x9;46.74%&amp;#xA;P/E Ratio(TTM)&amp;#x9;30.39&amp;#xA;EPS(TTM)&amp;#x9;134.78&amp;#xA;P/B Ratio&amp;#x9;14' /&gt;" Guid="269f5a37-2371-4587-b80c-ed38f4b6318f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='TCS Share Price Today - Tata Consultancy Services Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cee5c6b30b21903ac3da4cd58c5eaa01.png" xmlns="">0jdNnAa8jG02IeM4eo7BIaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

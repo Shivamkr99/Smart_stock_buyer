@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ROE",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "4qXMPbp9-0yQnvof8z5Shw",
+  "Reference": "R69YQ6jBSU2gnp_LiPmnNQ/4qXMPbp9-0yQnvof8z5Shw",
+  "ParentRef": "R69YQ6jBSU2gnp_LiPmnNQ/6cTlk-lfTkirtS2Fu-U9Cw",
+  "Created": "2025-01-30T18:18:53.1664072Z",
+  "Updated": "2025-01-30T18:18:53.1664072Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

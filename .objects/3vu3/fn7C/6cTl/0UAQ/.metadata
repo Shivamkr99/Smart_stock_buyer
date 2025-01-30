@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AllStocksMFF&O(1)",
+  "Type": "Element",
+  "Id": "0UAQyTv--EemnQjR8Y7xKQ",
+  "Reference": "R69YQ6jBSU2gnp_LiPmnNQ/0UAQyTv--EemnQjR8Y7xKQ",
+  "ParentRef": "R69YQ6jBSU2gnp_LiPmnNQ/6cTlk-lfTkirtS2Fu-U9Cw",
+  "Created": "2025-01-28T19:22:37.6402507Z",
+  "Updated": "2025-01-28T19:22:37.6402507Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9N_PZ-jdUUm18CP0G6z5Iw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="faba86b9-8a2e-4781-95bf-7cb1a4970a84" CvElementArea="904, 305, 134, 44" CvTextArea="942, 317, 57, 18" CvTextArgument="Stocks" CvType="Button" DesignTimeRectangle="943, 314, 56, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stocks' class='bodySmallHeavy' tag='SPAN' type='' check:innerText='Stocks' /&gt;" Guid="b87e7c06-19c3-43ca-b043-7693ab711676" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="724, 284, 659, 87" FuzzySelectorArgument="&lt;webctrl type='' class='contentAccent valign-wrapper vspace-between sf54SearchFilterRow bodySmallHeavy' tag='DIV' aaname='' check:innerText='All&amp;#xA;Stocks&amp;#xA;MF&amp;#xA;F&amp;amp;O' /&gt;" Guid="fcac235f-4f24-4acc-b543-44be5db315a3" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9a4908403400e57d5d3d12481f95f7b2.png" xmlns="">0aTvWVOr1Mk6lmbQZFwdbOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

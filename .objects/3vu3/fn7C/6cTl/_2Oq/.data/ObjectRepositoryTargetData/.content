@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HfkvTyNV5ku4tPsdTcw9pA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" DesignTimeRectangle="724, 369, 659, 90" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='3' tag='DIV' /&gt;" Guid="4ec8c996-0f5d-43df-b400-f3cc050ea0f7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="Selector" Version="V5">
+      <imageRef attrName="InformativeScreenshot" originalValue="544eb4959262f973a5c57abd02dc3894.png" xmlns="">0rX86t_UXAUu-w3nWZVwZRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

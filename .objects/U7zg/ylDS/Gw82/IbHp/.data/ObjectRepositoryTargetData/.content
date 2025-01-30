@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="irjwCIc4ZECIifcvMagMxQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="b8b0edb1-f02f-45d6-ac77-5ccd28db0e00" CvTextArea="144, 587, 929, 25" CvTextArgument="Groww - Online Demat, Trading and Direct Mutual Fund Investment ..." CvType="Text" DesignTimeRectangle="146, 572, 928, 47" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' aaname='Groww - Online Demat, Trading and Direct Mutual Fund Investment ...' check:innerText='Groww - Online Demat, Trading and Direct Mutual Fund Investment ...' /&gt;" Guid="d1974a2c-0930-49cb-9c98-cf6a51747bde" ScopeSelectorArgument="&lt;html app='chrome.exe' title='GROWW - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="51b86756e969822756b7ce5bc036d9b4.png" xmlns="">02Bf5vwTsPkGiCS5Xq5NgPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

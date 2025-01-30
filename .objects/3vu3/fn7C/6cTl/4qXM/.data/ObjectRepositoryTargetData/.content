@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HvV1SS93LEaWy9_LgUcXxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in/stocks/tata-consultancy-services-ltd" CVScreenId="3e3cf702-dc3c-46cb-86a0-949bbac1a768" CvTextArea="1185, 534, 81, 22" CvType="AnyWordGroup" DesignTimeRectangle="1186, 515, 79, 63" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='ft785Value right-align contentPrimary bodyLargeHeavy' tag='TD' /&gt;" Guid="f1d93ab5-7b04-44d1-b0da-81a09b0ba87a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='TCS Share Price Today - Tata Consultancy Services Ltd Stock Price Live NSE/BSE' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3e3cf702-dc3c-46cb-86a0-949bbac1a768" CvTextArea="764, 537, 39, 18" CvTextArgument="ROE" CvType="Text" DesignTimeRectangle="765, 515, 421, 63" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='ft785Head left-align contentSecondary bodyBase' aaname='ROE' check:innerText='ROE' /&gt;" Guid="b07268b5-40e0-4044-a1a4-3db84616d700" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="92e48aef36b9112c3b3b1a143f502928.png" xmlns="">06rHFatI0eE6AH0Z3YZLNqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

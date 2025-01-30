@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cWbpBe9Ztkm-3KkoiM7g6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" DesignTimeRectangle="760, 369, 587, 90" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl id='suggestionstata-consultancy-services-ltd' tag='DIV' type='' class='contentPrimary valign-wrapper gsc23SuggestionRow bodyBase' aaname='' check:innerText='Tata Consultancy Services Ltd.&amp;#xA;TCS&amp;#xA;Stock' /&gt;" Guid="611bd37d-9ea2-4fb0-8fb6-57841ecbfd1a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1d31bd9c-882a-49c3-92ac-a54f8c842f1e" CvTextArea="833, 420, 34, 16" CvTextArgument="TCS" CvType="Text" DesignTimeRectangle="835, 417, 31, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='TCS' parentid='suggestionstata-consultancy-services-ltd' tag='SPAN' type='' class='' check:innerText='TCS' /&gt;" Guid="fbf6add8-8ce6-46e3-8a69-13824f6423e8" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="1d31bd9c-882a-49c3-92ac-a54f8c842f1e" CvTextArea="1301, 404, 46, 16" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1303, 400, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionstata-consultancy-services-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="30ee5b33-1115-4884-93dd-6730e6f87f55" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5a2de1e319aa578cf70cd8d39f6546a3.png" xmlns="">0iboK5kQMQEqO2SBX4aglCw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

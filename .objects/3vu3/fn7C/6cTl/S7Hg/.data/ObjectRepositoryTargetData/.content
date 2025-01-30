@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="15bVCyv5rEiNO-ooWcZcbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="805d9c96-6e00-4014-93be-6512cee9bea2" CvElementArea="721, 214, 689, 70" CvType="InputBox" DesignTimeRectangle="796, 234, 553, 30" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='globalSearch23' tag='INPUT' type='' class='c-gBuTXB inputTextColor contentSecondary bodyBase' placeholder='What are you looking for today?' aaname='' /&gt;" Guid="71391b19-210a-4e82-b6e1-008345db269d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="805d9c96-6e00-4014-93be-6512cee9bea2" CvElementArea="721, 214, 689, 70" CvType="InputBox" DesignTimeRectangle="723, 216, 684, 66" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' parentid='searchWrapperElem23' tag='DIV' class='valign-wrapper pos-rel se27SeSearchMainDiv backgroundPrimary card borderPrimary  bodyLarge ' aaname='' /&gt;" Guid="a588a532-edea-4469-857a-dd2d3ba5fb59" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ffc9f1181d9c2d0c0a0a34772cf3ad49.png" xmlns="">0s1O7pDbgz0iDmUhQMoX-3g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

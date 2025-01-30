@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pKLyE8KnMUWIBDKJigtJ9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="d083ba5a-cd8f-4a7c-a620-73cd0e3bbf78" CvElementArea="722, 214, 688, 70" CvType="InputBox" DesignTimeRectangle="796, 234, 553, 30" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='globalSearch23' tag='INPUT' type='' class='c-gBuTXB inputTextColor contentSecondary bodyBase' placeholder='What are you looking for today?' aaname='' /&gt;" Guid="f5def6c9-e8bc-405f-9888-7c41a29454f2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a10f2cf8a35326f2852c0139f7fbbe2.png" xmlns="">0Ud3ZCq0JhkyF1cqbPQuGug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

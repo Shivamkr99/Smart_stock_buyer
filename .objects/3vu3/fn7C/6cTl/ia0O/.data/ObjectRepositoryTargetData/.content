@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kPvVQV4P9kKP652uhVkAsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" DesignTimeRectangle="724, 371, 682, 90" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl type='' class='fsAuto cur-po se27SeSuggestion se27SeSuggestionHover bodyBase' tag='DIV' aaname='' check:innerText='Tata Consultancy Services Ltd.&amp;#xA;TCS&amp;#xA;Stock' /&gt;" Guid="47e8dc20-9174-478b-a0f3-ca40ce401efa" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0cc89e013e63f2fa861405fced0ca3d5.png" xmlns="">0QqptOAfXAEG23W8E12ZAxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

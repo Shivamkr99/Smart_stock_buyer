@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2R1F46Bjc0mBflFDLoZvEw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="d112849d-3505-41b1-9071-92e30e42c3eb" DesignTimeRectangle="796, 236, 538, 30" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='globalSearch23' tag='INPUT' type='' class='c-gBuTXB inputTextColor contentSecondary bodyBase' placeholder='What are you looking for today?' aaname='' /&gt;" Guid="a9e6a8d0-614d-46a2-8c95-76b0898cab7f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="724, 284, 659, 87" FuzzySelectorArgument="&lt;webctrl type='' class='contentAccent valign-wrapper vspace-between sf54SearchFilterRow bodySmallHeavy' tag='DIV' aaname='' check:innerText='All&amp;#xA;Stocks&amp;#xA;MF&amp;#xA;F&amp;amp;O' /&gt;" Guid="2bd30592-2b5c-4e06-ae2f-751d8b92dcd9" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="d112849d-3505-41b1-9071-92e30e42c3eb" CvTextArea="1301, 405, 46, 16" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1303, 402, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionstata-consultancy-services-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="20b81b4f-06ba-43b7-b771-102e9eda7b44" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4918378e944272d7605849983039ebe6.png" xmlns="">0DgWQ_9ZNpU6DFVorBvhNDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

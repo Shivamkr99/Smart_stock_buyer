@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NmeCJF_lyU-iluxAhztzow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" DesignTimeRectangle="760, 369, 610, 90" DesignTimeScaleFactor="1.5" FuzzySelectorArgument="&lt;webctrl id='suggestionszomato-ltd' tag='DIV' type='' class='contentPrimary valign-wrapper gsc23SuggestionRow bodyBase' aaname='' check:innerText='Zomato Ltd.&amp;#xA;ZOMATO&amp;#xA;Stock' /&gt;" Guid="c0d70e40-964f-4266-bea4-70977131f7b9" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2f982d29-c948-4842-9506-f9bdb4c61de4" CvTextArea="833, 420, 70, 16" CvTextArgument="ZOMATO" CvType="Text" DesignTimeRectangle="835, 414, 427, 30" FuzzySelectorArgument="&lt;webctrl type='' class='' parentid='suggestionszomato-ltd' tag='DIV' aaname='' check:innerText='ZOMATO' /&gt;" Guid="f68142c0-233f-41ef-be9c-2c84efa421a1" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="2f982d29-c948-4842-9506-f9bdb4c61de4" CvTextArea="1323, 404, 46, 16" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1326, 400, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionszomato-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="bf1d309e-9629-485b-abf9-707fd0e9ae8b" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="2f982d29-c948-4842-9506-f9bdb4c61de4" CvTextArea="833, 389, 111, 19" CvTextArgument="Zomato Ltd." CvType="Text" DesignTimeRectangle="835, 384, 427, 30" FuzzySelectorArgument="&lt;webctrl type='' parentid='suggestionszomato-ltd' tag='DIV' class='' aaname='' check:innerText='Zomato Ltd.' /&gt;" Guid="e93cbfd9-5217-463f-9166-4b5854df01c3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2aaaaecf6accde66250fce7308f9db10.png" xmlns="">073mpWmVnv0Gy-K3Rm6040Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

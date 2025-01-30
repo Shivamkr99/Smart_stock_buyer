@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YbASh6VmiEegGt1Utfvvxg" Reference="R69YQ6jBSU2gnp_LiPmnNQ/0UAQyTv--EemnQjR8Y7xKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="ea83cb34-ad49-4905-b74f-81b956c2b1d5" CvTextArea="833, 420, 34, 16" CvType="AnyWordGroup" DesignTimeRectangle="835, 417, 31, 24" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='suggestionstata-consultancy-services-ltd' tag='SPAN' type='' class='' /&gt;" Guid="2d6ec95d-fb81-4fe4-bc5f-788474a7dabe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ea83cb34-ad49-4905-b74f-81b956c2b1d5" CvTextArea="1301, 404, 46, 16" CvTextArgument="Stock" CvType="Text" DesignTimeRectangle="1303, 400, 44, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Stock' parentid='suggestionstata-consultancy-services-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' check:innerText='Stock' /&gt;" Guid="e8230755-ca30-48bb-9994-9dd43d0f29c6" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="724, 282, 659, 87" FuzzySelectorArgument="&lt;webctrl type='' class='contentAccent valign-wrapper vspace-between sf54SearchFilterRow bodySmallHeavy' tag='DIV' aaname='' check:innerText='All&amp;#xA;Stocks&amp;#xA;MF&amp;#xA;F&amp;amp;O' /&gt;" Guid="f6777232-4f38-45f2-ab40-b82b49db267d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e1a3c365f91fd90a2e014dc09cfb0211.png" xmlns="">0RSryJK9ni0Wz5BiOYORc3A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

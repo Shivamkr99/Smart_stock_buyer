@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ht0Ad5PhOEim8apcjbCzGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="b9a4327d-587b-4cc6-a078-6bbbdd80c191" CvTextArea="144, 506, 930, 27" CvType="AnyWordGroup" DesignTimeRectangle="147, 493, 928, 47" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H3' type='' class='LC20lb MBeuO DKV0Md' /&gt;" Guid="23bcd9ea-3527-4a50-a624-6ae7d3b1b761" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce4d9d2ad7710367ef433f5264a082fb.png" xmlns="">0kYOqdE5dcEiWMs6YHM9njA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

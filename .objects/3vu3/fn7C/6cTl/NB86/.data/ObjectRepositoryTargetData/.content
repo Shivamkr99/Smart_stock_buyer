@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rBDkVe_Z1k6q-yn7BwiQtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="groww.in" CVScreenId="13f593dc-d068-4f58-870d-372e29181d03" CvTextArea="1301, 405, 46, 16" CvType="AnyWordGroup" DesignTimeRectangle="1303, 402, 44, 27" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='suggestionszomato-ltd' tag='SPAN' type='' class='contentSecondary bodySmall' /&gt;" Guid="2a7e3f38-3adf-4c44-9575-db4f973ccae4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Groww - Online Demat, Trading and Direct Mutual Fund Investment in India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ac1f1919617a79933b7c8e5973f65dad.png" xmlns="">0DrgkE3KKEkCfMnVRvcIigQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

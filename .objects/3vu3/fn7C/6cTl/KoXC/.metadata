@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Stock",
+  "Type": "Element",
+  "Id": "KoXCPxk9KEa6nwAE3zHDog",
+  "Reference": "R69YQ6jBSU2gnp_LiPmnNQ/KoXCPxk9KEa6nwAE3zHDog",
+  "ParentRef": "R69YQ6jBSU2gnp_LiPmnNQ/6cTlk-lfTkirtS2Fu-U9Cw",
+  "Created": "2025-01-27T17:32:02.7224045Z",
+  "Updated": "2025-01-27T17:32:02.7224045Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Zomato Ltd.ZOMATOStock",
+  "Type": "Element",
+  "Id": "81R3mIa6P0eXIeAUZmQOMw",
+  "Reference": "R69YQ6jBSU2gnp_LiPmnNQ/81R3mIa6P0eXIeAUZmQOMw",
+  "ParentRef": "R69YQ6jBSU2gnp_LiPmnNQ/6cTlk-lfTkirtS2Fu-U9Cw",
+  "Created": "2025-01-28T19:11:34.6208849Z",
+  "Updated": "2025-01-28T19:11:34.6208849Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
